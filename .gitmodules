@@ -1,0 +1,6 @@
+[submodule "bat-native-ledger"]
+	path = bat-native-ledger
+	url = https://github.com/brave-intl/bat-native-ledger.git
+[submodule "vendor/depot_tools"]
+	path = vendor/depot_tools
+	url = https://chromium.googlesource.com/chromium/tools/depot_tools.git
